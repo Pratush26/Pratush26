@@ -1,6 +1,6 @@
 # Hi there 👋, This is Pratush Barua
 ### A Full-stack web developer
-![A Full-stack web developer](https://i.pinimg.com/736x/d0/15/14/d01514031d0420292a238733926c375b.jpg)
+<img src="https://i.pinimg.com/736x/d0/15/14/d01514031d0420292a238733926c375b.jpg" alt="A Full-stack web developer" width="100%">
 
 I started my journey with front-end development, then mastered back-end skills, and now I’m building complete full-stack projects.
 Currently pursuing my B.Sc. in CSE, I’m continuously learning, exploring, and refining my craft.
