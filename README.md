@@ -8,45 +8,21 @@
 I began my journey with front-end development, then my knowledge expanded into back-end technologies and now I am building complete full-stack applications. I’m currently pursuing my B.Sc. in CSE and consistently strengthening my foundations through structured learning and hands-on projects. I am continuously explore new tools, refine my skills, and work toward becoming a stronger, industry-ready developer.
 
 ## 💻 Tech I work with:
+### Tech Stack
 
-### -> Frontend:
-<!-- redux -->
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,reactrouter,axios)
-### -> Backend:
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,regex)
-### -> Styling:
-![Styling techs](https://go-skill-icons.vercel.app/api/icons?i=tailwind,postcss,daisyui,shadcn)
-### -> Database:
-<!-- mysql,no-sql,graphql,firebase,postgresql -->
-![Database management](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mongoose)
-### -> Authentication:
-![Authentication](https://go-skill-icons.vercel.app/api/icons?i=firebase,jwt,clerk)
-### -> Design:
-![Design](https://go-skill-icons.vercel.app/api/icons?i=figma,ps,ai,canva)
-### -> Animation:
-![Animation](https://go-skill-icons.vercel.app/api/icons?i=framer,gsap)
-### -> Tools & Technology:
-<!-- flask,flutter,laravel,kotlin,obs,reactnative,django,replit,threejs -->
-![Tools & Technology](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitbash,npm,vite,gcp,googleanalytics,vscode,prettier,codeblocks)
-![Ais](https://go-skill-icons.vercel.app/api/icons?i=deepseek,cursor,chatgpt,microsoftcopilot,claude,)
-### -> Programming:
-<!-- java -->
-![Programming language](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python)
-### -> Deployment:
-![Deployment](https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,firebase,cloudflare,render,railway)
-#### -> CMS: *(optional)*
-![CMS](https://go-skill-icons.vercel.app/api/icons?i=wordpress,elementor,shopify)
-### -> Social Links:
-<!-- [![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://www.behance.net/pratush26) -->
-[![Behance](https://go-skill-icons.vercel.app/api/icons?i=behance)](https://www.behance.net/pratush26)
-[![Facebook](https://go-skill-icons.vercel.app/api/icons?i=facebook)](https://www.facebook.com/pratush.barua.1)
-[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/pratushbarua)
-[![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://www.instagram.com/pratushbarua26/)
-[![X](https://go-skill-icons.vercel.app/api/icons?i=x)](https://x.com/pratushbarua)
-[![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/pratushbarua/)
-[![HackerRank](https://go-skill-icons.vercel.app/api/icons?i=hackerrank)](https://www.hackerrank.com/profile/pratushbarua26)
-
-
+| Technology | Logos |
+|------------|-------|
+|**Frontend**|<!-- redux -->![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts)![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactrouter,axios)|
+|**Backend:**| ![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,regex)|
+|**Styling:**|![Styling techs](https://go-skill-icons.vercel.app/api/icons?i=tailwind,postcss,daisyui,shadcn)|
+|**Database:**|<!-- mysql,no-sql,graphql,postgresql -->![Database management](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mongoose,firebase)|
+|**Authentication:**|![Authentication](https://go-skill-icons.vercel.app/api/icons?i=firebase,jwt,clerk)|
+|**Design:**|![Design](https://go-skill-icons.vercel.app/api/icons?i=figma,ps,ai,canva)|
+|**Animation:**|![Animation](https://go-skill-icons.vercel.app/api/icons?i=framer,gsap)|
+|**Tools & Technology:**|<!-- flask,flutter,laravel,kotlin,obs,reactnative,django,replit,threejs -->![Tools & Technology](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitbash,npm,vite,gcp,googleanalytics,vscode,prettier,codeblocks)![Ais](https://go-skill-icons.vercel.app/api/icons?i=deepseek,cursor,chatgpt,microsoftcopilot,claude,)|
+|**Programming:**|<!-- java -->![Programming language](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python)|
+|**Deployment:**|![Deployment](https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,firebase,cloudflare,render,railway)|
+|CMS: *(optional)*|![CMS](https://go-skill-icons.vercel.app/api/icons?i=wordpress,elementor,shopify)|
 ---
 
 ### 🚀 Current Focus:
@@ -77,6 +53,16 @@ I code from the hill tracts 🌄—a peaceful place that gives me a clear, distr
 * ✉️  You can contact me at [pratushbarua26@gmail.com](mailto:pratushbarua26@gmail.com)
 * 🧠  I'm currently learning TypeScript
 * 💬  I enjoy playing the guitar as a hobby.
+
+### -> Social Links:
+<!-- [![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://www.behance.net/pratush26) -->
+[![Behance](https://go-skill-icons.vercel.app/api/icons?i=behance)](https://www.behance.net/pratush26)
+[![Facebook](https://go-skill-icons.vercel.app/api/icons?i=facebook)](https://www.facebook.com/pratush.barua.1)
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/pratushbarua)
+[![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://www.instagram.com/pratushbarua26/)
+[![X](https://go-skill-icons.vercel.app/api/icons?i=x)](https://x.com/pratushbarua)
+[![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/pratushbarua/)
+[![HackerRank](https://go-skill-icons.vercel.app/api/icons?i=hackerrank)](https://www.hackerrank.com/profile/pratushbarua26)
 
 ### My GitHub Stats
 
