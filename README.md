@@ -45,6 +45,8 @@ I began my journey with front-end development, then my knowledge expanded into b
 
 - Start working on remote freelance/agency projects
 
+[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratush26&bg_color=011627&color=bbf7d0&line=4ade80&point=fef9c3&area=true&hide_border=true)]
+
 #### ⚡ Fun Fact: 
 I code from the hill tracts 🌄—a peaceful place that gives me a clear, distraction-free space to build and experiment.
 
@@ -66,7 +68,6 @@ I code from the hill tracts 🌄—a peaceful place that gives me a clear, distr
 [![HackerRank](https://go-skill-icons.vercel.app/api/icons?i=hackerrank)](https://www.hackerrank.com/profile/pratushbarua26)
 
 ### My GitHub Stats
-
-<a href="http://www.github.com/Pratush26"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratush26&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![Pratush's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratush26&theme=prussian&hide_border=true)
 
 <a href="https://github.com/Pratush26" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratush26&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
