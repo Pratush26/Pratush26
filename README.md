@@ -12,7 +12,7 @@ I began my journey with front-end development, then my knowledge expanded into b
 
 | Technology | Logos |
 |------------|-------|
-|**Frontend**|<!-- redux -->![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts)![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactrouter,axios)|
+|**Frontend**|![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts)![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactrouter,axios,redux)|
 |**Backend:**| ![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,regex,resend)|
 |**Styling:**|![Styling techs](https://go-skill-icons.vercel.app/api/icons?i=tailwind,postcss,daisyui,shadcn,leaflet)|
 |**Database:**|<!-- mysql,no-sql,graphql,postgresql -->![Database management](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mongoose,firebase)|
@@ -20,7 +20,7 @@ I began my journey with front-end development, then my knowledge expanded into b
 |**Design:**|![Design](https://go-skill-icons.vercel.app/api/icons?i=figma,ps,ai,canva)|
 |**Animation:**|![Animation](https://go-skill-icons.vercel.app/api/icons?i=framer,gsap)|
 |**Tools & Technology:**|<!-- flask,flutter,laravel,kotlin,obs,reactnative,django,replit,threejs -->![Tools & Technology](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitbash,npm,vite,gcp,googleanalytics,vscode,prettier,codeblocks)![Ais](https://go-skill-icons.vercel.app/api/icons?i=deepseek,cursor,chatgpt,microsoftcopilot,claude,githubcopilot)|
-|**Programming:**|<!-- java -->![Programming language](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python)|
+|**Programming:**|![Programming language](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,python)|
 |**Deployment:**|![Deployment](https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,firebase,cloudflare,render,railway)|
 |CMS: *(optional)*|![CMS](https://go-skill-icons.vercel.app/api/icons?i=wordpress,elementor,shopify)|
 ---
