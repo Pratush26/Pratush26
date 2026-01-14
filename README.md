@@ -3,7 +3,9 @@
 <img src="https://i.pinimg.com/736x/d0/15/14/d01514031d0420292a238733926c375b.jpg" alt="A Full-stack web developer" width="100%">
 
 ## About me
-### *A Full-stack web developer*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=4ade80&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;Next.js+Developer;React+Developer;JavaScript+Developer" alt="Typing Animation" />
+</p>
 
 I began my journey with front-end development, then my knowledge expanded into back-end technologies and now I am building complete full-stack applications. I’m currently pursuing my B.Sc. in CSE and consistently strengthening my foundations through structured learning and hands-on projects. I am continuously exploring new tools, refining my skills and working toward to become a stronger, industry-ready developer.
 
@@ -68,6 +70,9 @@ I code from the hill tracts 🌄—a peaceful place that gives me a clear, distr
 [![HackerRank](https://go-skill-icons.vercel.app/api/icons?i=hackerrank)](https://www.hackerrank.com/profile/pratushbarua26)
 
 ### My GitHub Stats
-![Pratush's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratush26&theme=prussian&hide_border=true)
+![Pratush's Streak](https://nirzak-streak-stats.vercel.app/?user=Pratush26&theme=dark&hide_border=false)
 
-<a href="https://github.com/Pratush26" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratush26&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Language graph]([https://nirzak-streak-stats.vercel.app/?user=Pratush26&theme=dark&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratush26&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages))
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7e5bef,100:f472b6&height=140&section=footer&text=Thanks%20for%20Visiting%20My%20Profile&fontSize=40&fontColor=ffffff&fontAlignY=70" width="100%" />
