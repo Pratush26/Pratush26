@@ -14,14 +14,14 @@ I began my journey with front-end development, then my knowledge expanded into b
 
 | Technology | Logos |
 |------------|-------|
-|**Frontend**|![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts)![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactrouter,axios,redux)|
+|**Frontend**|![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts) ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactrouter,axios,redux)|
 |**Backend:**| ![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,regex,resend)|
 |**Styling:**|![Styling techs](https://go-skill-icons.vercel.app/api/icons?i=tailwind,postcss,daisyui,shadcn,leaflet)|
 |**Database:**|<!-- mysql,no-sql,graphql,postgresql -->![Database management](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mongoose,firebase)|
 |**Authentication:**|![Authentication](https://go-skill-icons.vercel.app/api/icons?i=firebase,jwt,clerk,authjs)|
 |**Design:**|![Design](https://go-skill-icons.vercel.app/api/icons?i=figma,ps,ai,canva)|
 |**Animation:**|![Animation](https://go-skill-icons.vercel.app/api/icons?i=framer,gsap)|
-|**Tools & Technology:**|<!-- flask,flutter,laravel,kotlin,obs,reactnative,django,replit,threejs -->![Tools & Technology](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitbash,npm,vite,gcp,googleanalytics,vscode,prettier,codeblocks)![Ais](https://go-skill-icons.vercel.app/api/icons?i=deepseek,cursor,chatgpt,microsoftcopilot,claude,githubcopilot)|
+|**Tools & Technology:**|<!-- flask,flutter,laravel,kotlin,reactnative,django,replit,threejs -->![Tools & Technology](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitbash) ![Tools & Technology](https://go-skill-icons.vercel.app/api/icons?i=npm,vite) ![Tools & Technology](https://go-skill-icons.vercel.app/api/icons?i=gcp,googleanalytics,obs) ![Tools & Technology](https://go-skill-icons.vercel.app/api/icons?i=vscode,prettier,codeblocks)![Ais](https://go-skill-icons.vercel.app/api/icons?i=deepseek,cursor,chatgpt)![Ais](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot,claude,githubcopilot)|
 |**Programming:**|![Programming language](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,python)|
 |**Deployment:**|![Deployment](https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,firebase,cloudflare,render,railway)|
 |CMS: *(optional)*|![CMS](https://go-skill-icons.vercel.app/api/icons?i=wordpress,elementor,shopify)|
@@ -47,7 +47,7 @@ I began my journey with front-end development, then my knowledge expanded into b
 
 - Start working on remote freelance/agency projects
 
-[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratush26&bg_color=011627&color=bbf7d0&line=4ade80&point=fef9c3&area=true&hide_border=true)]
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratush26&bg_color=011627&color=bbf7d0&line=4ade80&point=fef9c3&area=true&hide_border=true)
 
 #### ⚡ Fun Fact: 
 I code from the hill tracts 🌄—a peaceful place that gives me a clear, distraction-free space to build and experiment.
@@ -70,7 +70,7 @@ I code from the hill tracts 🌄—a peaceful place that gives me a clear, distr
 [![HackerRank](https://go-skill-icons.vercel.app/api/icons?i=hackerrank)](https://www.hackerrank.com/profile/pratushbarua26)
 
 ### My GitHub Stats
-![Pratush's Streak](https://nirzak-streak-stats.vercel.app/?user=Pratush26&theme=dark&hide_border=false)
+![Pratush's Streak](https://nirzak-streak-stats.vercel.app/?user=Pratush26&hide_border=false)
 
 ![Language graph]([https://nirzak-streak-stats.vercel.app/?user=Pratush26&theme=dark&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratush26&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages))
 
