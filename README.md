@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pratush+Barua&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Welcome+to+my+profile&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Pratush+Barua&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=26&desc=Welcome+to+my+profile&descAlignY=46&descAlign=50" width="100%"/>
 
 <img src="https://i.pinimg.com/736x/d0/15/14/d01514031d0420292a238733926c375b.jpg" alt="A Full-stack web developer" width="100%">
 
@@ -76,4 +76,4 @@ I code from the hill tracts 🌄—a peaceful place that gives me a clear, distr
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratush26&layout=compact&hide_border=false&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7e5bef,100:f472b6&height=140&section=footer&text=Thanks%20for%20Visiting%20My%20Profile&fontSize=30&fontColor=ffffff&fontAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7e5bef,100:f472b6&height=140&section=footer&text=Thanks+for+Visiting+My+Profile&fontSize=36&fontColor=ffffff&fontAlignY=70" width="100%" />
