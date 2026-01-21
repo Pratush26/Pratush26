@@ -1,8 +1,8 @@
-# Hi there 👋, This is ***Pratush Barua***
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pratush+Barua&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Welcome+to+my+profile&descAlignY=51&descAlign=50" width="100%"/>
 
 <img src="https://i.pinimg.com/736x/d0/15/14/d01514031d0420292a238733926c375b.jpg" alt="A Full-stack web developer" width="100%">
 
-## About me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About me
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=4ade80&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;Next.js+Developer;React+Developer;JavaScript+Developer" alt="Typing Animation" />
 </p>
@@ -70,9 +70,10 @@ I code from the hill tracts 🌄—a peaceful place that gives me a clear, distr
 [![HackerRank](https://go-skill-icons.vercel.app/api/icons?i=hackerrank)](https://www.hackerrank.com/profile/pratushbarua26)
 
 ### My GitHub Stats
-![Pratush's Streak](https://nirzak-streak-stats.vercel.app/?user=Pratush26&hide_border=false)
 
-![Language graph]([https://nirzak-streak-stats.vercel.app/?user=Pratush26&theme=dark&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratush26&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages))
+<div align="center">
+  <img width="49%" height="195px" src="https://nirzak-streak-stats.vercel.app/?user=Pratush26&hide_border=false" alt="Ashikur Rahman github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratush26&layout=compact&hide_border=false&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7e5bef,100:f472b6&height=140&section=footer&text=Thanks%20for%20Visiting%20My%20Profile&fontSize=40&fontColor=ffffff&fontAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7e5bef,100:f472b6&height=140&section=footer&text=Thanks%20for%20Visiting%20My%20Profile&fontSize=30&fontColor=ffffff&fontAlignY=70" width="100%" />
