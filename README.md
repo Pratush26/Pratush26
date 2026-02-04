@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Pratush+Barua&fontSize=34&fontColor=ffffff&fontAlignY=66&desc=Welcome+to+my+profile&descAlignY=86&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7e5bef,100:f472b6&height=140&section=footer&text=Pratush+Barua&fontSize=34&fontColor=ffffff&fontAlignY=66&desc=Welcome+to+my+profile&descAlignY=86&descAlign=50" width="100%"/>
 
 <img src="https://i.pinimg.com/736x/d0/15/14/d01514031d0420292a238733926c375b.jpg" alt="A Full-stack web developer" width="100%">
 
