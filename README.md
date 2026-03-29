@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7e5bef,100:f472b6&height=140&section=footer&text=Pratush+Barua&fontSize=34&fontColor=ffffff&fontAlignY=66&desc=Welcome+to+my+profile&descAlignY=86&descAlign=50" width="100%"/>
-
 <img src="https://i.pinimg.com/736x/d0/15/14/d01514031d0420292a238733926c375b.jpg" alt="A Full-stack web developer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7e5bef,100:f472b6&height=150&section=header&text=Pratush+Barua&fontSize=32&fontColor=ffffff&fontAlignY=20&desc=Welcome+to+my+profile&descAlignY=40&descAlign=50" width="100%"/>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About me
 <p align="center">
@@ -31,7 +31,7 @@ I began my journey with front-end development, then my knowledge expanded into b
 
 - Building real-world full-stack applications
 
-- Exploring TypeScript, Next.js and other modern technologies
+- Exploring new and modern technologies
 
 - Learning advanced animations & performance optimization
 
@@ -48,9 +48,6 @@ I began my journey with front-end development, then my knowledge expanded into b
 - Start working on remote freelance/agency projects
 
 ![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratush26&bg_color=011627&color=bbf7d0&line=4ade80&point=fef9c3&area=true&hide_border=true)
-
-#### ⚡ Fun Fact: 
-I code from the hill tracts 🌄—a peaceful place that gives me a clear, distraction-free space to build and experiment.
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [portfolio](http://pratushportfolio.vercel.app)
