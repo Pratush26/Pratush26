@@ -70,10 +70,11 @@ I code from the hill tracts 🌄—a peaceful place that gives me a clear, distr
 [![HackerRank](https://go-skill-icons.vercel.app/api/icons?i=hackerrank)](https://www.hackerrank.com/profile/pratushbarua26)
 
 ### My GitHub Stats
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pratush26&theme=default)](https://git.io/streak-stats)
 <div align="center">
-  <img width="49%" height="195px" src="https://nirzak-streak-stats.vercel.app/?user=Pratush26&hide_border=false" alt="Ashikur Rahman github stats" /> 
+  <img width="49%" height="195px" src="https://nirzak-streak-stats.vercel.app/?user=Pratush26&hide_border=false" alt="Pratush's github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratush26&layout=compact&hide_border=false&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
+  
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7e5bef,100:f472b6&height=140&section=footer&text=Thanks+for+Visiting+My+Profile&fontSize=36&fontColor=ffffff&fontAlignY=70" width="100%" />
